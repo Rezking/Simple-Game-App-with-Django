@@ -1,4 +1,3 @@
-
 {
     "builds": [{
         "src": "django_project/wsgi.py",
